@@ -1,6 +1,6 @@
 import { NextApiRequest, NextApiResponse } from "next";
 import { decode } from "../../lib/shortener";
-import { prisma } from "../../lib/prisma";
+import prisma from "../../lib/prisma";
 
 export default async function handler(
   req: NextApiRequest,

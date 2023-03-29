@@ -1,7 +1,7 @@
 import { NextApiRequest, NextApiResponse } from "next";
 import normalizeUrl from 'normalize-url';
 import { encode } from "../../lib/shortener";
-import { prisma } from "../../lib/prisma";
+import prisma from "../../lib/prisma";
 
 interface CreateLink {
     url: string;
