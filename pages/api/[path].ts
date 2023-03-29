@@ -14,8 +14,10 @@ export default async function handler(
     });
     if (link) {
         res.status(200).redirect(encodeURI(link.url));
+        return;
     }
+
     res.status(404).json({
         message: "Link not found",
-    })
+    });
 }
