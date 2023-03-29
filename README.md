@@ -6,4 +6,4 @@
 
 ## Demo (lag)
 
-`https://blank-url.vercel.app/⁯`
+[https://blank-url.vercel.app/](https://blank-url.vercel.app/)
