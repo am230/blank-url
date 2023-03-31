@@ -7,3 +7,6 @@
 ## Demo
 
 vercel: [https://blank-url.vercel.app/](https://blank-url.vercel.app/)
+
+Q結局これって意味あるの？
+A...
