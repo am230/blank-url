@@ -8,5 +8,6 @@
 
 vercel: [https://blank-url.vercel.app/](https://blank-url.vercel.app/)
 
-Q結局これって意味あるの？
-A...
+Q：結局これって意味あるの？
+
+A：...
