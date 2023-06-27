@@ -38,7 +38,7 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse<
         });
     }).catch(reason => {
         res.status(200).json({
-            ok: false, error: reason.toString(),
+            ok: false, error: '作成に失敗しました…',
         });
     })
 }

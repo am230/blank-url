@@ -40,7 +40,7 @@ const Home = () => {
                 1.
                 <input
                     type="text"
-                    placeholder='@id...'
+                    placeholder='url...'
                     value={url}
                     onChange={(e) => setUrl(e.target.value)}
                 />
